@@ -1,2 +1,14 @@
 # jnhfootball-journal
-HTML page archive and documentation
+
+自动生成页面存放处
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
